@@ -5,12 +5,12 @@
     padding: 0;
     display: flex;
     justify-content: center;
-    margin-bottom: 34px;
-    
+    margin-bottom: 50px;
 }
 
 .button.primary {
     margin-right: 8px;
+    padding: 6px 22px;
 
     background-color: var(--bgc-accent);
     color: var(--primary-text-color);
@@ -42,7 +42,7 @@
     flex-wrap: wrap;
     margin-top: -30px;
     margin-left: -30px;
-    outline: 1px solid greenyellow;
+    /* outline: 1px solid greenyellow; */
 }
 
 .portfolio .title {
@@ -53,7 +53,8 @@
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
-    outline: 1px solid green;
+    margin-bottom: 4px;
+    /* outline: 1px solid green; */
    
 }
 
@@ -65,22 +66,21 @@
     font-size: 16px;
     line-height: 1.87;
     letter-spacing: 0.03em;
-    outline: 1px solid blue;
-    margin-top: 4px;
+    /* outline: 1px solid blue; */
+   
     
 }
 
 .portfolio .item {
-    /* width: 370px; */
     flex-basis: calc(100% / 3 - 30px );
     margin-top: 30px;
     margin-left: 30px;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
 }
 
 .card-content {
     padding: 20px 24px;
-    outline: 5px solid orange;
+    /* outline: 5px solid orange; */
 }
 
 
