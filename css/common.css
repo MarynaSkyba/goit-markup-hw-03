@@ -221,9 +221,9 @@ img {
     line-height: 1.71;
 }
 
-.container.footer {
+.container.main {
     display: block;
-    padding-top: 60px;
+    
 }
 
 .footer-address{
