@@ -165,8 +165,8 @@ img {
 
 /* footer */
 .footer {
-    max-width: 1600px;
-    min-height: 252px;
+    padding-top: 60px;
+    padding-bottom: 60px;
     background-color: var(--bgc-main);
 }
 
