@@ -151,11 +151,8 @@
 
 .comand-group {
     display: flex;
-    margin-left: -30px;
-
-    
+    margin-left: -30px;   
 }
-
 /* .comand-group > .item:not(:last-child) {
      margin-right: 30px;
 } */
