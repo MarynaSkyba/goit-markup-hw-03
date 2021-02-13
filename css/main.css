@@ -160,5 +160,4 @@
 .comand-group > .item {
     margin-left: 30px;
     flex-basis: calc(100% / 4 - 30px ); 
-    border: 1px solid #ECECEC;
 }
