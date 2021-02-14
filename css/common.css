@@ -7,11 +7,6 @@
     --bgc-accent: #F5F4FA; 
 }
 
-hr {
-    border: none; 
-    background-color: #ECECEC;
-    height: 1px; 
-}
 
 body {
     background-color: #ffffff;

@@ -1,4 +1,7 @@
 /* portfolio */
+.page-header {
+    border-bottom: 1px solid #ECECEC ;
+}
 
 .button-items {
     margin: 0;
